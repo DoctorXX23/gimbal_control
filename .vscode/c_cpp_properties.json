@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/uarsnuc6/ws_ros2/install/uars_ros_interface/include/**",
+        "/home/uarsnuc6/ws_ros2/install/uars_camera/include/**",
+        "/home/uarsnuc6/ws_ros2/install/ros2_offboard/include/**",
+        "/home/uarsnuc6/ws_ros2/install/offboard_control/include/**",
+        "/home/uarsnuc6/ws_ros2/install/mission_flier/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/uarsnuc6/ws_ros2/src/Camera/include/**",
+        "/home/uarsnuc6/ws_ros2/src/Mission_flier/include/**",
+        "/home/uarsnuc6/ws_ros2/src/Offboard_control/include/**",
+        "/home/uarsnuc6/ws_ros2/src/gimbal_control/include/**",
+        "/home/uarsnuc6/ws_ros2/src/launchsdf/include/**",
+        "/home/uarsnuc6/ws_ros2/src/ros2_offboard/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
